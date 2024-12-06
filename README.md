@@ -22,6 +22,8 @@ Function of experiment
 Usage notes
 -----------------------------------------------------------
 - Download and open PsychoPy Version 2024.2.1post4.
+  
+- Download 'bunny3.jpg' and 'cat.jpg'
 
 - In Coder view, click file and open 'go_nogo_experiment.py' in PsychoPy.
 
